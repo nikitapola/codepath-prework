@@ -4,7 +4,7 @@ Submitted by: **Nikita Pola**
 
 **ColorChange** is an app that changes background to some randomly generated color when clicking on the button
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total (learning Swift Language + creating the application)
 
 ## Required Features
 
