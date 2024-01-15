@@ -2,7 +2,7 @@
 
 Submitted by: **Nikita Pola**
 
-**Name of your app** is an app that... [changes background to some randomly generated color when clicking on the button] 
+**ColorChange* is an app that... [changes background to some randomly generated color when clicking on the button] 
 
 Time spent: **1** hours spent in total
 
